@@ -4,7 +4,6 @@
 This repository includes the analysis codes implemented for the main figures in 
 
 **Slow and fast cortical cholinergic arousal is reduced in a mouse model of focal seizures with impaired consciousness**
-[temp_paper_link](/temp_paper_link)
 
 Lim-Anna Sieu, Shobhit Singla, Jiayang Liu, Xinyuan Zheng, Abdelrahman Sharafeldin, Ganesh Chandrasekaran, Marcus Valcarce-Aspegren, Ava Niknahad, Ivory Fu, Natnael Doilicho, Abhijeet Gummadavelli, Cian McCafferty, Richard B. Crouse, Quentin Perrenoud, Marina R. Picciotto, Jessica A. Cardin and Hal Blumenfeld 
 
@@ -12,4 +11,4 @@ A detailed description of all methods and analysis used are given in the Methods
 
 
 ## Data
-Source data are publicly available from [temp_link](/temp).
+Source data are publicly available [here](/https://datadryad.org/stash/share/j95IoaBmXT3oxy8OELqLbRkjPVY1AHC8H5wdwiHVNt8).
