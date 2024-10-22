@@ -11,4 +11,4 @@ A detailed description of all methods and analysis used are given in the Methods
 
 
 ## Data
-Source data are publicly available [here](/https://datadryad.org/stash/share/j95IoaBmXT3oxy8OELqLbRkjPVY1AHC8H5wdwiHVNt8).
+Source data are publicly available [here](https://doi.org/10.5061/dryad.gb5mkkx0r).
